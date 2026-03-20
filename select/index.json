@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Nekozilla",
+  "base_artist": "Different Heaven",
+  "createdAt": "2026-03-20T15:16:33.091470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nekozilla",
+      "artist": "Different Heaven",
+      "has_synced": true,
+      "path": "select/01_Nekozilla_Different_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nekozilla",
+      "artist": "Artisti Vari; Different Heaven",
+      "has_synced": true,
+      "path": "select/02_Nekozilla_Artisti_Vari;_Different_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nekozilla",
+      "artist": "Different Heaven",
+      "has_synced": true,
+      "path": "select/03_Nekozilla_Different_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Different Heaven - Nekozilla",
+      "artist": "Different Heaven",
+      "has_synced": true,
+      "path": "select/04_Different_Heaven_-_Nekozilla_Different_Heaven.lrc"
+    }
+  ]
+}
